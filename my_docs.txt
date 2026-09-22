@@ -1,0 +1,21 @@
+langchain is gen ai framework
+LangChain is a framework for building applications powered by Large Language Models (LLMs) like GPT, Claude, Gemini, etc.
+What LangChain is used for
+ Chatbots & Assistants
+Conversational bots with memory
+Customer support bots
+Personal AI assistants
+Question Answering over your data (RAG)
+
+Example:
+Upload PDFs / Word files
+Ask questions about them
+LangChain retrieves relevant content and feeds it to the LLM
+This is called Retrieval-Augmented Generation (RAG).
+Agents (AI that uses tools)
+LangChain lets models:
+Decide what tool to use
+Call APIs
+Run Python code
+Search databases
+Loop until a task is complete
